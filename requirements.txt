@@ -1,0 +1,9 @@
+torch          #pip install -U torch
+torchtext      #pip install -U torchtext
+torchdata      #pip install -U torchdata
+spacy          #pip install -U spacy
+spacy          #python -m spacy download en_core_web_sm
+               #python -m spacy download de_core_news_sm
+               #pip install -U portalocker
+========================================
+pip install -r requirements.txt
